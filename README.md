@@ -1,2 +1,2 @@
-# proj_1_treehouse
+# Treehouse Project 1
  
